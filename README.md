@@ -14,7 +14,7 @@
 
 📌 Introduction
 ------------------
-**Ignyte-website** 
+**Ignyte-website** We're a tight-knit community of developers, coders, and designers who are here to learn and teach, with a mission to spread the fire of knowledge and empower each other without any bounds!Get ready to join forces with other like-minded individuals in a fun, supportive environment! Let's set the tech world ablaze together!
 
 
 ## Contributing :handshake:
