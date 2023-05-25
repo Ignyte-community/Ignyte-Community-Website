@@ -24,7 +24,7 @@
 
 
 
-**We're accepting PRs for our open and unassigned [issues🐛](https://ignyte-website.vercel.app/issues)**. Please check [CONTRIBUTING.md✨](https://ignyte-website.vercel.app/CONTRIBUTING.md). We'd love your contributions! **Kindly follow the steps below to get started:** 
+**We're accepting PRs for our open and unassigned [issues🐛](https://github.com/Ignyte-community/Ignyte-Community-Website/issues)**. Please check [CONTRIBUTING.md✨](https://github.com/Ignyte-community/Ignyte-Community-Website/CONTRIBUTING.md). We'd love your contributions! **Kindly follow the steps below to get started:** 
 
 **0.** Star [this](https://ignyte-website.vercel.app/) repository.
 
