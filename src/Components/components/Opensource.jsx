@@ -26,24 +26,24 @@ export default function Opensource() {
               <div className="flex flex-row flex-wrap justify-center">
 
                   <div className="flex flex-col rounded-lg bg-[#1e1b4b] m-4 rotate-6">
-                      <div className="w-80 h-14 rounded-lg bg-[#1e1b4b]"><p className="text-center text-white my-2">Google Summer of Code</p> </div>
+                      <div className="w-72 sm:w-80 h-14 rounded-lg bg-[#1e1b4b]"><p className="text-center text-white my-2">Google Summer of Code</p> </div>
                      
                   </div>
                   <div className="flex flex-col rounded-lg  bg-[#dc2626] m-4 -rotate-6">
-                      <div className="w-80 h-14 rounded-lg  bg-[#dc2626]"><p className="text-center text-white my-2">Social Summer of Code</p> </div>
+                      <div className="w-72 sm:w-80 h-14 rounded-lg  bg-[#dc2626]"><p className="text-center text-white my-2">Social Summer of Code</p> </div>
                      
                   </div>
                   <div className="flex flex-col rounded-lg   bg-[#f97316] m-4 rotate-6">
-                      <div className="w-80 h-14 rounded-lg  bg-[#f97316]"><p className="text-center text-white my-2">GirlScript Summer Of Code</p> </div>
+                      <div className="w-72 sm:w-80 h-14 rounded-lg  bg-[#f97316]"><p className="text-center text-white my-2">GirlScript Summer Of Code</p> </div>
                   
                   </div>
                   <div className="flex flex-col rounded-lg     bg-[#10b981] m-4 -rotate-6">
-                      <div className="w-80 h-14 rounded-lg      bg-[#10b981]"><p className="text-center text-white my-2">JGEC Winter of Code</p> </div>
+                      <div className="w-72 sm:w-80 h-14 rounded-lg      bg-[#10b981]"><p className="text-center text-white my-2">JGEC Winter of Code</p> </div>
                       
                   </div>
                 
                   <div className="flex flex-col rounded-lg  bg-[#fcd34d] m-4 rotate-6">
-                      <div className="w-80 h-14 rounded-lg  bg-[#fcd34d]"><p className="text-center text-white my-2">Hacktoberfest</p> </div>
+                      <div className="w-72 sm:w-80 h-14 rounded-lg  bg-[#fcd34d]"><p className="text-center text-white my-2">Hacktoberfest</p> </div>
                   
                   </div>
 
